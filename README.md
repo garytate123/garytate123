@@ -1,16 +1,21 @@
-### Hi there 👋
+# Full-Stack Scala Developer
+## Currently working at Capgemini through Experis on Digital HMRC projects
 
-<!--
-**garytate123/garytate123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### Hi there 👋 - You've landed on my (Gary Tate) Github Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+A few ways to reach me: 
+- gary.tate@capgemini.com
+- gary.tate@digital.hmrc.gov.uk
+
+<br>
+
+Personal Email: 
+- garytatelufc@gmail.com
+
+<br>
+

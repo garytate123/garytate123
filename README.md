@@ -44,7 +44,6 @@ Play Framework
 ![NODE.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESS.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-<br>
 
 Technologies that I've used in a professional setting:
 <br>
@@ -67,34 +66,29 @@ DevOpp tools that I use:
 ![JENKINS](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-<br>
 
 Databases that I use:
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br>
 
 Hosting platforms that I use:
 <br>
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-<br>
 
 Technologies that I'm learning:
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br>
 
 IDE's that I use:
 <br>
 ![INTELLIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<br>
 
 Music I listen to while codeing:
 <br>

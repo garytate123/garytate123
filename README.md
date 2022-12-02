@@ -51,19 +51,16 @@ Technologies that I've used in a professional setting:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<br>
 
 Tools that I use:
 <br>![SLACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-<br>
 
 Verions Control that I use:
 <br>
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
 
-<br>
 
 DevOpp tools that I use:
 <br>
@@ -102,3 +99,8 @@ IDE's that I use:
 Music I listen to while codeing:
 <br>
 ![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+
+<hr>
+
+## My Interests
+

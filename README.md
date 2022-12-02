@@ -1,20 +1,19 @@
 # Full-Stack Scala Developer
-## Currently working at Capgemini through Experis on Digital HMRC projects
+#### Currently working at Capgemini through Experis on Digital HMRC projects
 
 <br>
 
-### Hi there 👋 - You've landed on my Github Profile!
+## Hi there 👋 - You've landed on my Github Profile!
 
 <br>
 
 ## Social Media
-I'm only on
+I'm only on <br>
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [Gary Tate](https://www.linkedin.com/in/gary-tate-124307209/).
 
 I'm not on other Socail Media.
 
-<br>
 <br>
 
 A few ways to reach me: 
@@ -23,7 +22,8 @@ A few ways to reach me:
 
 <br>
 
-![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Personal Email:
+Personal Email: <br>
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - garytatelufc@gmail.com
 
 <br>

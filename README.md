@@ -18,8 +18,7 @@ A few ways to reach me:
 
 <br>
 
-Personal Email:
-![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Personal Email:
 - garytatelufc@gmail.com
 
 <br>

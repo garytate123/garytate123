@@ -6,7 +6,9 @@
 ### Hi there 👋 - You've landed on my Github Profile!
 
 ## Social Media
-I'm only on ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+I'm only on LinkedIn
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[Duck Duck Go](https://duckduckgo.com).
 I'm not on other Socail Media.
 
 <br>

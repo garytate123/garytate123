@@ -3,7 +3,7 @@
 
 <br>
 
-### Hi there 👋 - You've landed on my (Gary Tate) Github Profile!
+### Hi there 👋 - You've landed on my Github Profile!
 
 <br>
 <br>

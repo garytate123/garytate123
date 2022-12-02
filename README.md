@@ -10,11 +10,11 @@
 ## Social Media
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <br>
-[Gary Tate](https://www.linkedin.com/in/gary-tate-124307209/).
+[Gary Tate](https://www.linkedin.com/in/gary-tate-124307209/)
 
 I'm not on other Socail Media.
 
-<br>
+<hr>
 
 A few ways to reach me: 
 - gary.tate@capgemini.com

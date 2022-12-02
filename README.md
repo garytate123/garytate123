@@ -8,8 +8,7 @@
 <br>
 
 ## Social Media
-I'm only on <br>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gary | LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [Gary Tate](https://www.linkedin.com/in/gary-tate-124307209/).
 
 I'm not on other Socail Media.

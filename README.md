@@ -10,7 +10,7 @@
 ## Social Media
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <br>
-[Link](https://www.linkedin.com/in/gary-tate-124307209/)
+[LinkedIn Profile](https://www.linkedin.com/in/gary-tate-124307209/)
 
 I'm not on other Socail Media.
 

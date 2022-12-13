@@ -1,6 +1,6 @@
 # Full-Stack Scala Developer
 #### Currently working at Capgemini through Experis on Digital HMRC projects.
-Test Driven, Agile Scala Dev.
+Test Driven, Agile Scala Dev and I make sure I learn something new every day.
 
 <br>
 

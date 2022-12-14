@@ -19,7 +19,6 @@ I'm not on other Socail Media.
 
 A few ways to reach me: 
 - gary.tate@capgemini.com
-- gary.tate@digital.hmrc.gov.uk
 
 <br>
 

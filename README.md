@@ -5,9 +5,9 @@
 #### Currently working at Capgemini through Experis on Digital HMRC projects as a Full-Stack Web Developer, developing in Scala and the Play Framework.
 
 The Team I work in:
-- Agile
+- Agile / Scrum and Kanban
 - Remote
-- Scala developers
+- Scala / Play Framework developers
 - TDD (Test Driven Development)
 - CI/CD
 

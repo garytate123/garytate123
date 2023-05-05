@@ -1,5 +1,7 @@
 # Full-Stack Web Developer
 
+Knock knock. Who's there? Git. Git-who? Sorry, 'who' is not a git command - did you mean 'show'?
+
 ## Hi there 👋 - You've landed on my Github Profile!
 
 #### Currently working at Capgemini through Experis on Digital HMRC projects as a Full-Stack Web Developer, developing in Scala and the Play Framework.

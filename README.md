@@ -2,7 +2,7 @@
 
 ## Hi there 👋 - You've landed on my Github Profile!
 
-I drink my coffee #000000 ☕ 😂
+I drink my ☕ #000000 😂
 
 #### Currently working at Capgemini through Experis on Digital HMRC projects as a Full-Stack Web Developer, developing in Scala and the Play Framework.
 

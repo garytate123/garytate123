@@ -8,6 +8,7 @@ I drink my ☕ #000000 😂
 
 The Team I work in:
 - Agile / Scrum and Kanban
+- Live Service
 - Remote
 - Scala / Play Framework developers
 - TDD (Test Driven Development)

@@ -33,6 +33,11 @@ A few ways to reach me:
 Personal Email: <br>
 - garytatelufc@gmail.com
 
+<br>
+
+Personal Website <br>
+- www.garytate.me
+
 <hr>
 
 ## Tech Skills

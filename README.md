@@ -7,12 +7,13 @@ I drink my ☕ #000000 😂
 #### Currently working at Capgemini through Experis on Digital HMRC projects as a Full-Stack Web Developer, developing in Scala and the Play Framework.
 
 The Team I work in:
-- Agile / Scrum and Kanban
-- Live Service
-- Remote
+- Agile
+- Scrum / Kanban hybrid
+- Live Services
 - Scala / Play Framework developers
 - TDD (Test Driven Development)
 - CI/CD
+- Fully Remote
 
 <br>
 

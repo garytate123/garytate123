@@ -12,7 +12,7 @@ The Team I work in:
 - Live Services
 - Scala / Play Framework developers
 - TDD (Test Driven Development)
-- CI/CD
+- CI/CD (Continuous Integration & Continuous Delivery/Continuous Deployment)
 - Fully Remote
 
 <br>

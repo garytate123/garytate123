@@ -102,8 +102,8 @@ IDE's that I use:
 ![INTELLIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<details open>
-<summary>I automatically open</summary>
+<details>
+<summary>This is a dropdown menu</summary>
 <br>
 Waaa, you see me. I thought I would be hidden ;p .
 </details>

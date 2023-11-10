@@ -36,7 +36,7 @@ Personal Email: <br>
 
 <br>
 
-Personal Website <br>
+Personal Website / Although, this will just point you back here at the moment:<br>
 - www.garytate.me
 
 <hr>

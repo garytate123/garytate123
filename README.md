@@ -4,7 +4,7 @@
 
 I drink my ☕ #000000 😂
 
-#### Currently working at Capgemini through Experis on Digital HMRC projects as a Full-Stack Web Developer, developing in Scala and the Play Framework.
+#### Currently working at Capgemini on Digital HMRC projects as a Full-Stack Web Developer, developing in Scala and the Play Framework.
 
 The Team I work in:
 - Agile
